@@ -16,4 +16,4 @@
 
 * [js](./js-k)
 
-  > * [ajax](./js-k/ajax.md)
+  > [ajax](./js-k/ajax.md)

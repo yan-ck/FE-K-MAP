@@ -17,3 +17,5 @@
 * [js](./js-k)
 
   > [ajax](./js-k/ajax.md)
+
+  > [函数节流／函数防抖](./js-k/throttle&&debounce.md)

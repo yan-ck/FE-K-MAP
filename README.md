@@ -19,3 +19,5 @@
   > [ajax](./js-k/ajax.md)
 
   > [函数节流／函数防抖](./js-k/throttle&&debounce／throttle&&debounce.md)
+
+  > [类型检测](./js-k/typeof／typeof.md)

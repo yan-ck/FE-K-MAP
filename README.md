@@ -18,6 +18,8 @@
 
   > [ajax](./js-k/README.md)
 
-  > [函数节流／函数防抖](./js-k/throttle%26%26debounce／README.md)
+  > [函数节流／函数防抖](./js-k/throttle%26%26debounce/README.md)
 
   > [类型检测](./js-k/typeof/README.md)
+
+  > [js运行机制](http://www.dailichun.com/2018/01/21/js_singlethread_eventloop.html)

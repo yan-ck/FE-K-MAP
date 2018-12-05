@@ -10,14 +10,14 @@
   
 * [css](./css-k)
 
-  > [@font-face](./css-k/@font-face.md)
+  > [@font-face](./css-k/README.md)
 
-  > [box-sizing](./css-k/box-sizing.md)
+  > [box-sizing](./css-k/README.md)
 
 * [js](./js-k)
 
-  > [ajax](./js-k/ajax.md)
+  > [ajax](./js-k/README.md)
 
-  > [函数节流／函数防抖](./js-k/throttle%26%26debounce／throttle%26%26debounce.md)
+  > [函数节流／函数防抖](./js-k/throttle%26%26debounce／README.md)
 
-  > [类型检测](./js-k/typeof/typeof.md)
+  > [类型检测](./js-k/typeof/README.md)

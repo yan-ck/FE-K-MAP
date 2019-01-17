@@ -27,3 +27,5 @@
   > [promise](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/0014345008539155e93fc16046d4bb7854943814c4f9dc2000)
 
   > [事件代理/冒泡/捕获](http://www.cnblogs.com/starof/p/4066381.html)
+
+  > [函数声明/变量提升](https://www.cnblogs.com/luqin/p/5164132.html)
